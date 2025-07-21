@@ -25,8 +25,7 @@ author:
   avatar           : "profile.jpg"
   name             : "Abdul Hamid Rumman"
   pronouns         : # example: "she/her"  
-  bio              : |+ Graduate Teaching Assistant
-                        Artie McFerrin Department of Chemical Engineering
+  bio              : "Graduate Teaching Assistant \nDepartment of Chemical Engineering"
   location         : "College Station, Texas, USA"
   employer         : "Texas A&M University"
   uri              : # URL
