@@ -22,7 +22,7 @@ repository               : "AbdulHamidRumman/abdulhamidrumman.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   name             : "Abdul Hamid Rumman"
   pronouns         : # example: "she/her"  
   bio              : "Graduate Teaching Assistant"
@@ -52,7 +52,7 @@ author:
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
@@ -69,7 +69,7 @@ author:
   steam            : # Username
   telegram         : # URL
   tumblr           : # Username
-  twitter          : # Username for X / Twitter
+  twitter          : # Username
   vine             : # Username
   weibo            : # Username
   wikipedia        : # Username
