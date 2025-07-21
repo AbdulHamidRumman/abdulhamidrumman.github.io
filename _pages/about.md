@@ -7,7 +7,8 @@ redirect_from:
   - /about.html
 ---
 ------
-A fresh graduate from the Department of Materials and Metallurgical Engineering (MME) at Bangladesh University of Engineering and Technology (BUET), striving to become a material scientist. I have a keen interest in studying the applications of 2D materials (Graphene, MXenes, TMDs) for energy storage devices, such as supercapacitors and batteries, utilizing both experimental and computational techniques. Along with my experimental projects, I am currently involved in several computational research projects focusing on Machine Learning, Computer Vision, and Molecular Dynamics simulations under the supervision of Dr. Saquib Ahmed, SUNY Buffalo University, USA. 
+Striving to become a material scientist with a keen interest in studying the applications of 2D materials (Graphene, MXenes, TMDs) for energy storage devices, such as supercapacitors and batteries, utilizing experimental and computational techniques. 
+
 [DOWNLOAD CV](https://www.dropbox.com/scl/fi/ztnd3qfmiky56d4cbra1z/cv_ahr.pdf?rlkey=mlc7k35m7z8kwb2q2l6k4mgpp&dl=0)
 
 A data-driven personal website
