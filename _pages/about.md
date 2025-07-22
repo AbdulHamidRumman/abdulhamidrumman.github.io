@@ -16,18 +16,22 @@ I received my Bachelors degree in [Materials and Metallurgical Engineering](mme.
 
 Education
 ------
-* PhD in Chemical Engineering, Texas A&M University, Aug. 2025 - Present
-* BSc in Materials and Metallurigical Engineering, Bangladesh University of Engineering and Technology, April 2019 - July 2024
+* PhD in Chemical Engineering (Aug. 2025 - Present)
+  * Texas A&M University, College Station, Texas, USA
+* BSc in Materials and Metallurigical Engineering, April 2019 - July 2024
+  * Bangladesh University of Engineering and Technology, Dhaka, Bangladesh 
 
 Professional Experience
 ------
-* Graduate Teaching Assistant, Texas A&M University, Aug. 2025 - Present
+* Graduate Teaching Assistant (Aug. 2025 - Present)
+  * Artie McFerrin Department of Chemical Engineering
+  * Texas A&M University, College Station, Texas, USA 
 
 Research Experience
 ------
-* Undergraduate Researcher (Remote), [Ahmed Research Group](https://faculty.buffalostate.edu/ahmedsm/), Jan. 2023 - July 2025
-  * Participated in research projects focusing on computational materials science.
-  * Conducted workshops on machine learning and molecular dynamics simulations.   
+* Undergraduate Researcher (Remote) (Jan. 2023 - July 2025)
+  * [Ahmed Research Group](https://faculty.buffalostate.edu/ahmedsm/)
+  * PI & Group Lead: Dr. Saquib Ahmed, SUNY - Buffalo State University, New York, USA  
 
 ### Research Interests
 * 2D Materials - MXenes, Graphene, TMDs
@@ -72,5 +76,5 @@ Technical Skills
 
 Awards & Achievements
 ------
-* Dean's List Scholarship, Bangladesh University of Engineering and Technology, 2019
-* Technical Scholarship, Bangladesh University of Engineering and Technology, 2019 - 2022
+* Dean's List Scholarship, Bangladesh University of Engineering and Technology (2019)
+* Technical Scholarship, Bangladesh University of Engineering and Technology (2019 - 2022)
