@@ -12,8 +12,6 @@ Striving to become a material scientist with a keen interest in studying the app
 
 I received my Bachelors degree in [Materials and Metallurgical Engineering](mme.buet.ac.bd) from [Bangladesh University of Engineering and Technology](buet.ac.bd), Dhaka, Bangladesh. Apart from academic studies, I actively participated in computational research projects, specilizing in Machine Learning, Computer Vision, and Molecular Dynamics simulations under the supervision of [Dr. Saquib Ahmed, SUNY - Buffalo University, USA](https://faculty.buffalostate.edu/ahmedsm/). Currently, I am pursuing my PhD in [Chemical Engineering](https://engineering.tamu.edu/chemical) at [Texas A&M Univeristy](www.tamu.edu), College Station, Texas, USA.
 
-[DOWNLOAD CV](https://www.dropbox.com/scl/fi/ztnd3qfmiky56d4cbra1z/cv_ahr.pdf?rlkey=mlc7k35m7z8kwb2q2l6k4mgpp&dl=0)
-
 Education
 ------
 * PhD in Chemical Engineering (Aug. 2025 - Present)
