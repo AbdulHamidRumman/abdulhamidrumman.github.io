@@ -15,16 +15,16 @@ I received my Bachelors degree in [Materials and Metallurgical Engineering](mme.
 
 Education
 ------
-| PhD in Chemical Engineering | Texas A&M University | Aug. 2025 - Present
-| BSc in Materials and Metallurigical Engineering | Bangladesh University of Engineering and Technology | April 2019 - July 2024
+| PhD in Chemical Engineering | Texas A&M University | Aug. 2025 - Present |
+| BSc in Materials and Metallurigical Engineering | Bangladesh University of Engineering and Technology | April 2019 - July 2024 |
 
 Professional Experience
 ------
-| Graduate Teaching Assistant | Texas A&M University | Aug. 2025 - Present
+| Graduate Teaching Assistant | Texas A&M University | Aug. 2025 - Present |
 
 Research Experience
 ------
-| Undergraduate Researcher (Remote) | [Ahmed Research Group](https://faculty.buffalostate.edu/ahmedsm/) | Jan. 2023 - July 2025
+| Undergraduate Researcher (Remote) | [Ahmed Research Group](https://faculty.buffalostate.edu/ahmedsm/) | Jan. 2023 - July 2025 |
 
 Research Interests
 ======
