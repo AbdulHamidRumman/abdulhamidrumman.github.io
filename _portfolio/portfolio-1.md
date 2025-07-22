@@ -1,9 +1,9 @@
 ---
 title: "YouTube Channel - Learn With Manim"
-excerpt: "Mathematically Animated Videos on Crystallography<br/><img src='/images/LWM/LWM_banner.jpg'>"
+excerpt: "Mathematically Animated Videos on Crystallography<br/><a href="https://www.youtube.com/c/LearnWithManim"><img src='/images/LWM/LWM_banner.jpg'></a>"
 collection: portfolio
 ---
 
 Simple Cubic Crystal Structure | Face Centered Cubic Crystal Structure
 ------------------------------ | -------------------------------------
-<iframe src="https://www.youtube.com/embed/Pthx506At88" allow="autoplay"></iframe> | <iframe src="https://www.youtube.com/embed/GSPVC34ijIA" allow="autoplay"></iframe> 
+[![Watch on Youtube](https://img.youtube.com/vi/Pthx506At88/0.jpg)](https://www.youtube.com/watch?v=Pthx506At88) | [![Watch on Youtube](https://img.youtube.com/vi/GSPVC34ijIA/0.jpg)](https://www.youtube.com/watch?v=GSPVC34ijIA)
