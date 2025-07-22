@@ -7,6 +7,7 @@ redirect_from:
   - /about.html
 ---
 ------
+
 Striving to become a material scientist with a keen interest in studying the applications of 2D materials (Graphene, MXenes, TMDs) for energy storage devices, such as supercapacitors and batteries, utilizing experimental and computational techniques.
 
 I received my Bachelors degree in [Materials and Metallurgical Engineering](mme.buet.ac.bd) from [Bangladesh University of Engineering and Technology](buet.ac.bd), Dhaka, Bangladesh. Apart from academic studies, I actively participated in computational research projects, specilizing in Machine Learning, Computer Vision, and Molecular Dynamics simulations under the supervision of [Dr. Saquib Ahmed, SUNY - Buffalo University, USA](https://faculty.buffalostate.edu/ahmedsm/). Currently, I am pursuing my PhD in [Chemical Engineering](https://engineering.tamu.edu/chemical) at [Texas A&M Univeristy](www.tamu.edu), College Station, Texas, USA.
@@ -15,19 +16,20 @@ I received my Bachelors degree in [Materials and Metallurgical Engineering](mme.
 
 Education
 ------
-PhD in Chemical Engineering | Texas A&M University | Aug. 2025 - Present
-BSc in Materials and Metallurigical Engineering | Bangladesh University of Engineering and Technology | April 2019 - July 2024
+* PhD in Chemical Engineering, Texas A&M University, Aug. 2025 - Present
+* BSc in Materials and Metallurigical Engineering, Bangladesh University of Engineering and Technology, April 2019 - July 2024
 
 Professional Experience
 ------
-Graduate Teaching Assistant | Texas A&M University | Aug. 2025 - Present
+* Graduate Teaching Assistant, Texas A&M University, Aug. 2025 - Present
 
 Research Experience
 ------
-Undergraduate Researcher (Remote) | [Ahmed Research Group](https://faculty.buffalostate.edu/ahmedsm/) | Jan. 2023 - July 2025
+* Undergraduate Researcher (Remote), [Ahmed Research Group](https://faculty.buffalostate.edu/ahmedsm/), Jan. 2023 - July 2025
+  * Participated in research projects focusing on computational materials science.
+  * Conducted workshops on machine learning and molecular dynamics simulations.   
 
-Research Interests
-======
+### Research Interests
 * 2D Materials - MXenes, Graphene, TMDs
 * Energy Storage - Batteries, Supercapacitors
 * Electrochemistry
@@ -37,15 +39,13 @@ Research Interests
 
 Publications
 ------
-Journal Articles
-
+### Journal Articles
 1. Sahriar, M. A., **Rumman, A. H.**, Ullah, A., Barua, K., Monju, S. I., Jawad, M. S., Faisal, M. A., Ahsan, R. R., Jang, H. & Ahmed, S. Optical image analysis of WSe2 – thresholding for layer detection. Computational Materials Science 253, 113888. [https://dx.doi.org/10.1016/j.commatsci.2025.113888](https://dx.doi.org/10.1016/j.commatsci.2025.113888) (May 2025).
 2. **Rumman, A. H.**, Barua, K., Monju, S. I., Hasan Abed, M. R., Tan-Ema, S. J., Al-Sharab, J. F. & Ahmed, S. Classification of CoCr-based magnetic thin films via GLCM texture features extracted from EFTEM images and machine learning. AIP Advances 14, 115017. [https://dx.doi.org/10.1063/5.0232442](https://dx.doi.org/10.1063/5.0232442) (Nov. 2024).
 3. Sahriar, M. A., **Rumman, A. H.**, Abed, M. R. H., Nirjhar, A. R., Dipon, M. N. A., Tan-Ema, S. J., Jang, H. & Ahmed, S. Optical image analysis for graphene layer detection: Enhanced green channel methodology. Computational Materials Science 244, 113198. [https://dx.doi.org/10.1016/j.commatsci.2024.113198](https://dx.doi.org/10.1016/j.commatsci.2024.113198) (Sept. 2024).
 4. **Rumman, A. H.**, Sahriar, M. A., Islam, M. T., Shorowordi, K. M., Carbonara, J., Broderick, S. & Ahmed, S. Data-driven design for enhanced efficiency of Sn-based perovskite solar cells using machine learning. APL Machine Learning 1, 046117. [https://dx.doi.org/10.1063/5.0177271](https://dx.doi.org/10.1063/5.0177271) (Dec. 2023).
 
-Conference Presentation
-
+### Conference Presentation
 1. Choudhary, A., Mohan, A., Sahriar, M. A., **Rumman, A. H.**, Islam, M. T., Ahmed, S. & Efstathiadis, H. Machine learning assisted development of Sn/Pb free perovskites solar cells Conference session. Dec. 2023. Materials Research Society Symposium on Halide Perovskites-From Fundamentals to Applications, Boston, Massachusetts, USA.
 
 Getting started
