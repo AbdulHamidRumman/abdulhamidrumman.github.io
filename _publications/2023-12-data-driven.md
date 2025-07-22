@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 permalink: /publication/2023-12-data-driven
 excerpt: ""
-date: 2023-12
+date: 2023-12-11
 venue: 'APL Machine Learning'
 paperurl: 'https://dx.doi.org/10.1063/5.0177271'
 ---
@@ -16,4 +16,4 @@ paperurl: 'https://dx.doi.org/10.1063/5.0177271'
     <li>Generating new combination of features</li>
     <li>Predict using best performing ML models</li>
 </ul>
-<img src="/images/graphical-abstracts/data-driven-2023-12" width="600px" height="400px">
+<img src="/images/graphical-abstracts/data-driven-2023-12.png" width="600px" height="400px">
