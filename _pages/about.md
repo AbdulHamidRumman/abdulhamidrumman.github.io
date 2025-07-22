@@ -1,26 +1,42 @@
 ---
 permalink: /
-title: "About Me"
+title: "Bio"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 ------
-Striving to become a material scientist with a keen interest in studying the applications of 2D materials (Graphene, MXenes, TMDs) for energy storage devices, such as supercapacitors and batteries, utilizing experimental and computational techniques. 
+Striving to become a material scientist with a keen interest in studying the applications of 2D materials (Graphene, MXenes, TMDs) for energy storage devices, such as supercapacitors and batteries, utilizing experimental and computational techniques.
+
+I received my Bachelors degree in [Materials and Metallurgical Engineering](mme.buet.ac.bd) from [Bangladesh University of Engineering and Technology](buet.ac.bd), Dhaka, Bangladesh. Apart from academic studies, I actively participated in computational research projects, specilizing in Machine Learning, Computer Vision, and Molecular Dynamics simulations under the supervision of [Dr. Saquib Ahmed, SUNY - Buffalo University, USA](https://faculty.buffalostate.edu/ahmedsm/). Currently, I am pursuing my PhD in [Chemical Engineering](https://engineering.tamu.edu/chemical) at [Texas A&M Univeristy](www.tamu.edu), College Station, Texas, USA.
 
 [DOWNLOAD CV](https://www.dropbox.com/scl/fi/ztnd3qfmiky56d4cbra1z/cv_ahr.pdf?rlkey=mlc7k35m7z8kwb2q2l6k4mgpp&dl=0)
 
-A data-driven personal website
+Education
+------
+* PhD in Chemical Engineering | Texas A&M University | Aug. 2025 - Present
+* BSc in Materials and Metallurigical Engineering | Bangladesh University of Engineering and Technology | April 2019 - July 2024
+
+Professional Experience
+------
+* Graduate Teaching Assistant | Texas A&M University | Aug. 2025 - Present
+
+Research Experience
+------
+* Undergraduate Researcher (Remote) | [Ahmed Research Group](https://faculty.buffalostate.edu/ahmedsm/) | Jan. 2023 - July 2025
+
+Research Interests
 ======
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured Markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various Markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+* 2D Materials - MXenes, Graphene, TMDs
+* Energy Storage - Batteries, Supercapacitors
+* Electrochemistry
+* Machine Learning & Computer Vision
+* Molecular Dynamics Simulation
+* Density Function Theory
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your Markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over - just be sure to save the Markdown files! You can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
-
-For those users that need more advanced functionality, the template also supports the following popular tools:
-- [MathJax](https://www.mathjax.org/) for mathematical equations
-- [Mermaid](https://mermaid.js.org/) for diagraming
-- [Plotly](https://plotly.com/javascript/) for plotting
+Publications
+------
 
 Getting started
 ======
