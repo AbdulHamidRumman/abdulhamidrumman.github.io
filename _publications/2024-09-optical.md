@@ -10,7 +10,7 @@ excerpt: "<ul>
                 <li>Image analysis shows a universal pattern in the green channel pixel median value.</li>
                 <li>Intersection over union metric (IoU) yielded 94 %, and 89 % accuracy for monolayer and bilayer respectively.</li>
           </ul>"
-date: 2024-09
+date: 2024-09-01
 venue: 'Computational Materials Science'
 paperurl: 'https://doi.org/10.1016/j.commatsci.2024.113198'
 ---
