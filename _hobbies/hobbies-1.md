@@ -1,6 +1,6 @@
 ---
 title: "YouTube Channel - Learn With Manim"
-excerpt: "Mathematically Animated Videos on Crystallography<br/><img src='/images/LWM/LWM_banner.jpg'>"
+excerpt: "Mathematically Animated Videos on Crystallography<br/>[![Learn With Manim](/images/LWM/LWM_banner.jpg)](https://www.youtube.com/c/LearnWithManim)"
 collection: hobbies
 ---
 Channel Link: [https://www.youtube.com/c/LearnWithManim](https://www.youtube.com/c/LearnWithManim)
