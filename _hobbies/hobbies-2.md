@@ -11,19 +11,19 @@ Location - Shohag Polli Resort, Gazipur, Bangladesh | Description
 Location - Sajek Valley, Chittagong, Bangladesh | Description
 :-----------------------------:|:------------------------------------:
 ![sajek1](/images/photography/sajek1.jpg) | Miyana Leaves (Coleus Plant)
-![sajek2](/images/photography/sajek2.jpg) | Small cottages playing in the clouds
+![sajek2](/images/photography/sajek2.JPG) | Small cottages playing in the clouds
 
 Location - Kaptai Lake, Rangamati, Bangladesh | Description
 :-----------------------------:|:------------------------------------:
-![kaptai1](/images/photography/kaptai1.jpg) | 1
-![kaptai2](/images/photography/kaptai2.jpg) | 2
-![kaptai3](/images/photography/kaptai3.jpg) | 3
+![kaptai1](/images/photography/kaptai1.JPG) | Hop onto the boat
+![kaptai2](/images/photography/kaptai2.JPG) | A journey by boat
+![kaptai3](/images/photography/kaptai3.JPG) | Titanic Moment
 
 Location - Bogalake, Bandarban, Bangladesh | Description
 :-----------------------------:|:------------------------------------:
-![bogalake1](/images/photography/bogalake1.jpg) | Bogalake1
-![bogalake2](/images/photography/bogalake2.jpg) | Bogalake2
-![bogalake3](/images/photography/bogalake3.jpg) | Bogalake3
+![bogalake1](/images/photography/bogalake1.JPG) | Bogalake1
+![bogalake2](/images/photography/bogalake2.JPG) | Bogalake2
+![bogalake3](/images/photography/bogalake3.JPG) | Bogalake3
 
 Location - Keokradong Mountain, Bandarban, Bangladesh | Description
 :-----------------------------:|:------------------------------------:
