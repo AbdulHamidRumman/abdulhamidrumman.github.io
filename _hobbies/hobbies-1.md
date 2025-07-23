@@ -1,5 +1,5 @@
 ---
-title: "YouTube Channel - Learn With Manim (Click for More)"
+title: "YouTube Channel - Learn With Manim"
 excerpt: "Mathematically Animated Videos on Crystallography ([Click for more](https://abdulhamidrumman.github.io/hobbies/hobbies-1/)) <br/> [![Learn With Manim](/images/LWM/LWM_banner.jpg)](https://www.youtube.com/c/LearnWithManim)"
 collection: hobbies
 ---
