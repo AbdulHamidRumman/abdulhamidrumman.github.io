@@ -3,13 +3,29 @@ title: "Photography"
 excerpt: "Photos taken using Canon 700D 18-55 Kit Lens ([Click for more](https://abdulhamidrumman.github.io/hobbies/hobbies-2/)) <br/> <img src='/images/photography/photo1.jpg' width='600px' height='360px'>"
 collection: hobbies
 ---
-| Location - Shohag Polli Resort, Gazipur, Bangladesh | Description
-|:-----------------------------:|:------------------------------------:|
-| ![Photo1](/images/photography/photo1.jpg) | Miyana Leaves (Coleus Plant) |
-| ![Flower1](/images/photography/flower1.jpg) | Pink Hibiscus |
-| ![Flower2](/images/photography/flower2.jpg) | White Bougainvillea (Paperflower) |
+Location - Shohag Polli Resort, Gazipur, Bangladesh | Description
+:-----------------------------:|:------------------------------------: 
+![Flower1](/images/photography/flower1.jpg) | Pink Hibiscus 
+![Flower2](/images/photography/flower2.jpg) | White Bougainvillea (Paperflower)
+
+Location - Sajek Valley, Chittagong, Bangladesh | Description
+:-----------------------------:|:------------------------------------:
+![sajek1](/images/photography/sajek1.jpg) | Miyana Leaves (Coleus Plant)
+![sajek2](/images/photography/sajek2.jpg) | Small cottages playing in the clouds
+
+Location - Kaptai Lake, Rangamati, Bangladesh | Description
+:-----------------------------:|:------------------------------------:
+![kaptai1](/images/photography/kaptai1.jpg) | 1
+![kaptai2](/images/photography/kaptai2.jpg) | 2
+![kaptai3](/images/photography/kaptai3.jpg) | 3
+
+Location - Bogalake, Bandarban, Bangladesh | Description
+:-----------------------------:|:------------------------------------:
+![bogalake1](/images/photography/bogalake1.jpg) | Bogalake1
+![bogalake2](/images/photography/bogalake2.jpg) | Bogalake2
+![bogalake3](/images/photography/bogalake3.jpg) | Bogalake3
 
 Location - Keokradong Mountain, Bandarban, Bangladesh | Description
 :-----------------------------:|:------------------------------------:
 ![keokradong1](/images/photography/keokradong1.jpg) | On top of Keokradong Mountain (986 metres elevation)
-![keokradong21](/images/photography/keokradong2.jpg) | Sunset on top of Keokradong Mountain
+![keokradong2](/images/photography/keokradong2.jpg) | Sunset on top of Keokradong Mountain
