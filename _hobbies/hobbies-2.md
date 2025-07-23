@@ -16,14 +16,14 @@ Location - Sajek Valley, Chittagong, Bangladesh | Description
 Location - Kaptai Lake, Rangamati, Bangladesh | Description
 :-----------------------------:|:------------------------------------:
 ![kaptai1](/images/photography/kaptai1.JPG) | Hop onto the boat
-![kaptai2](/images/photography/kaptai2.JPG) | A journey by boat
+![kaptai2](/images/photography/kaptai2.JPG) | Row row row your boat
 ![kaptai3](/images/photography/kaptai3.JPG) | Titanic Moment
 
 Location - Bogalake, Bandarban, Bangladesh | Description
 :-----------------------------:|:------------------------------------:
-![bogalake1](/images/photography/bogalake1.JPG) | Bogalake1
-![bogalake2](/images/photography/bogalake2.JPG) | Bogalake2
-![bogalake3](/images/photography/bogalake3.JPG) | Bogalake3
+![bogalake1](/images/photography/bogalake1.JPG) | Highest Natural Lake in Bangladesh (~1800ft above sea level)
+![bogalake2](/images/photography/bogalake2.JPG) | The name "Boga" is said to be derived from the Bawm word for dragon
+![bogalake3](/images/photography/bogalake3.JPG) | Fresh blue water surrounded by mountain peaks
 
 Location - Keokradong Mountain, Bandarban, Bangladesh | Description
 :-----------------------------:|:------------------------------------:
