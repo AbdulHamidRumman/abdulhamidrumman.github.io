@@ -70,7 +70,7 @@ Technical Skills
   * OriginLab
   * LabPlot
   * MS Office
-  * $$\LaTeX$$ 
+  * $\LaTeX$ 
 
 Awards & Achievements
 ------
