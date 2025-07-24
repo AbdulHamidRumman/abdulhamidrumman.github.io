@@ -17,7 +17,10 @@ Education
 * PhD in Chemical Engineering (Aug. 2025 - Present)
   * Texas A&M University, College Station, Texas, USA
 * BSc in Materials and Metallurigical Engineering (April 2019 - July 2024)
-  * Bangladesh University of Engineering and Technology, Dhaka, Bangladesh 
+  * Bangladesh University of Engineering and Technology, Dhaka, Bangladesh
+  * CGPA: 3.70/4.00
+  * Thesis Title: "Processing and Characterization of TiO<sub>2</sub> reinforced MXene Nanocomposite for Enhanced Supercapacitor Electrode Material"
+  * Supervisor: Professor Dr. Kazi Md. Shorowordi
 
 Professional Experience
 ------
