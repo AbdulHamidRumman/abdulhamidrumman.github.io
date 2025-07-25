@@ -41,7 +41,7 @@ Research Experience
 * Molecular Dynamics Simulation
 * Density Function Theory
 
-Publications
+[Publications](https://abdulhamidrumman.github.io/publications/)
 ------
 ### Journal Articles
 1. Sahriar, M. A., **Rumman, A. H.**, Ullah, A., Barua, K., Monju, S. I., Jawad, M. S., Faisal, M. A., Ahsan, R. R., Jang, H. & Ahmed, S. Optical image analysis of WSe2 – thresholding for layer detection. Computational Materials Science 253, 113888. [https://dx.doi.org/10.1016/j.commatsci.2025.113888](https://dx.doi.org/10.1016/j.commatsci.2025.113888) (May 2025).
@@ -55,7 +55,7 @@ Publications
 Technical Skills
 ------
 * Experimental Skills
-  * Synthesis of MXene (Ti3C2Tx) from MAX Phase (Ti3AlC2)
+  * Synthesis of MXene (Ti<sub>3</sub>C<sub>2</sub>T<sub>x</sub>) from MAX Phase (Ti<sub>3</sub>AlC<sub>2</sub>)
   * Cold sintering of powder samples
   * Electrochemical characterization using Gamry Reference 3000AE:
     * Cyclic Voltammetry
