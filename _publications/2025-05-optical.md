@@ -2,7 +2,7 @@
 title: "Optical image analysis of WSe<sub>2</sub> − thresholding for layer detection"
 collection: publications
 category: manuscripts
-permalink: /publication/2025-05-optical
+permalink: /publications/2025-05-optical
 excerpt: "<ul>
                 <li>Thresholds via GUI: Tuned using RGB channels for different WSe<sub>2</sub> flake layers.</li>
                 <li>Red Channel Analysis: Distinctive range and median values noted.</li>

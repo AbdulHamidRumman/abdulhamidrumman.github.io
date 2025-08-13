@@ -2,7 +2,7 @@
 title: "Data-driven design for enhanced efficiency of Sn-based perovskite solar cells using machine learning"
 collection: publications
 category: manuscripts
-permalink: /publication/2023-12-data-driven
+permalink: /publications/2023-12-data-driven
 excerpt: "<ul>
                 <li>A novel three-step machine learning methodology was developed using 26,000 experimental records to predict perovskite solar cell performance.</li>
                 <li>Random Forest model achieved the best performance (R<sup>2</sup> score of 0.70 for PCE) and was used to optimize non-toxic Sn-based perovskite devices.</li>

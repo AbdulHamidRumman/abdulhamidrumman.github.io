@@ -2,7 +2,7 @@
 title: "Optical image analysis for graphene layer detection: Enhanced green channel methodology"
 collection: publications
 category: manuscripts
-permalink: /publication/2024-09-optical
+permalink: /publications/2024-09-optical
 excerpt: "<ul>
                 <li>Enhanced green channel thresholding for effective segmentation of graphene layers in optical images with variable lighting.</li>
                 <li>The thresholding can be fine-tuned and adjusted according to the lighting condition.</li>

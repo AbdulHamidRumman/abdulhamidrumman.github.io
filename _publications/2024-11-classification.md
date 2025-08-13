@@ -2,7 +2,7 @@
 title: "Classification of CoCr-based magnetic thin films via GLCM texture features extracted from EFTEM images and machine learning"
 collection: publications
 category: manuscripts
-permalink: /publication/2024-11-classification
+permalink: /publications/2024-11-classification
 excerpt: "<ul>
                 <li>GLCM (Gray-level Co-occurrence Matrix) based texture features effectively classify CoCr-based magnetic thin films using EFTEM images.</li>
                 <li>LightGBM and ANN models achieved classification accuracies exceeding 85%, with ANN reaching 100% accuracy</li>
