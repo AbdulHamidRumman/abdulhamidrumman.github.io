@@ -10,7 +10,7 @@ redirect_from:
 
 Striving to become a material scientist with a keen interest in studying the applications of 2D materials (Graphene, MXenes, TMDs) for energy storage devices, such as supercapacitors and batteries, utilizing experimental and computational techniques.
 
-I received my Bachelors degree in [Materials and Metallurgical Engineering](mme.buet.ac.bd) from [Bangladesh University of Engineering and Technology](buet.ac.bd), Dhaka, Bangladesh. Apart from academic studies, I actively participated in computational research projects, specilizing in Machine Learning, Computer Vision, and Molecular Dynamics simulations under the supervision of [Dr. Saquib Ahmed, SUNY - Buffalo University, USA](https://faculty.buffalostate.edu/ahmedsm/). Currently, I am pursuing my PhD in [Chemical Engineering](https://engineering.tamu.edu/chemical) at [Texas A&M University](www.tamu.edu), College Station, Texas, USA.
+I received my Bachelors degree in [Materials and Metallurgical Engineering](mme.buet.ac.bd) from [Bangladesh University of Engineering and Technology](buet.ac.bd), Dhaka, Bangladesh. Apart from academic studies, I actively participated in computational research projects, specializing in Machine Learning, Computer Vision, and Molecular Dynamics simulations under the supervision of [Dr. Saquib Ahmed, SUNY - Buffalo University, USA](https://faculty.buffalostate.edu/ahmedsm/). Currently, I am pursuing my PhD in [Chemical Engineering](https://engineering.tamu.edu/chemical) at [Texas A&M University](www.tamu.edu), College Station, Texas, USA.
 
 [DOWNLOAD FULL CV/RESUME](https://abdulhamidrumman.github.io/cv/)
 
