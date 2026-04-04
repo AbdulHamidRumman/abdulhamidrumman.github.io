@@ -8,9 +8,9 @@ redirect_from:
 ---
 ------
 
-Striving to become a material scientist with a keen interest in studying the applications of 2D materials (Graphene, MXenes, TMDs) for energy storage devices, such as supercapacitors and batteries, utilizing experimental and computational techniques.
+Striving to become a material scientist with a keen interest in studying the applications of 2D materials (Graphene, MXenes, TMDs) for semiconductor and energy storage devices, utilizing experimental and computational techniques.
 
-I received my Bachelors degree in [Materials and Metallurgical Engineering](mme.buet.ac.bd) from [Bangladesh University of Engineering and Technology](buet.ac.bd), Dhaka, Bangladesh. Apart from academic studies, I actively participated in computational research projects, specializing in Machine Learning, Computer Vision, and Molecular Dynamics simulations under the supervision of [Dr. Saquib Ahmed, SUNY - Buffalo University, USA](https://faculty.buffalostate.edu/ahmedsm/). Currently, I am pursuing my PhD in [Chemical Engineering](https://engineering.tamu.edu/chemical) at [Texas A&M University](www.tamu.edu), College Station, Texas, USA.
+I received my bachelors degree in [Materials and Metallurgical Engineering](mme.buet.ac.bd) from [Bangladesh University of Engineering and Technology](buet.ac.bd), Dhaka, Bangladesh. Apart from academic studies, I actively participated in computational research projects, specializing in Machine Learning, Computer Vision, and Molecular Dynamics simulations under the supervision of [Dr. Saquib Ahmed, SUNY - Buffalo University, USA](https://faculty.buffalostate.edu/ahmedsm/). Currently, I am pursuing my PhD in [Chemical Engineering](https://engineering.tamu.edu/chemical) at [Texas A&M University](www.tamu.edu), College Station, Texas, USA.
 
 [DOWNLOAD FULL CV/RESUME](https://abdulhamidrumman.github.io/cv/)
 
@@ -35,11 +35,10 @@ Research Experience
 
 ### Research Interests
 * 2D Materials - MXenes, Graphene, TMDs
-* Energy Storage - Batteries, Supercapacitors
+* Microelectronics
 * Electrochemistry
+* Computational Materials Science
 * Machine Learning & Computer Vision
-* Molecular Dynamics Simulation
-* Density Function Theory
 
 [Publications](https://abdulhamidrumman.github.io/publications/)
 ------
@@ -59,14 +58,13 @@ Technical Skills
 ------
 * Experimental Skills
   * Synthesis of MXene (Ti<sub>3</sub>C<sub>2</sub>T<sub>x</sub>) from MAX Phase (Ti<sub>3</sub>AlC<sub>2</sub>)
-  * Cold sintering of powder samples
   * Electrochemical characterization using Gamry Reference 3000AE:
     * Cyclic Voltammetry
     * Electrochemical Impedance Spectroscopy
     * Galvanostatic Charging-discharging
 * Programming Languages
   * Python
-  * C/C++
+  * MATLAB
 * Modeling & Analysis
   * Supervised machine learning, computer vision, and animation using Python
   * Structure analysis tools: Atomsk, OVITO, Vesta, VMD
