@@ -23,7 +23,11 @@ Education
 
 Professional Experience
 ------
-* Graduate Teaching Assistant (Aug. 2025 - Present)
+* Graduate Research Assistant (May 2026 - Present)
+  * Huang Lab
+  * Artie McFerrin Department of Chemical Engineering
+  * Texas A&M University, College Station, Texas, USA 
+* Graduate Teaching Assistant (Aug. 2025 - May 2026)
   * Artie McFerrin Department of Chemical Engineering
   * Texas A&M University, College Station, Texas, USA 
 
@@ -57,19 +61,22 @@ high-entropy alloys via probabilistic substitution and machine learning with fir
 Technical Skills
 ------
 * Experimental Skills
-  * Synthesis of MXene (Ti<sub>3</sub>C<sub>2</sub>T<sub>x</sub>) from MAX Phase (Ti<sub>3</sub>AlC<sub>2</sub>)
-  * Electrochemical characterization using Gamry Reference 3000AE:
+  * Photolithography
+  * Physical Vapor Deposition
+  * Sputtering
+  * Chemical synthesis of MXenes
+* Characterization Techniques:
     * Cyclic Voltammetry
     * Electrochemical Impedance Spectroscopy
     * Galvanostatic Charging-discharging
 * Programming Languages
   * Python
   * MATLAB
-* Modeling & Analysis
-  * Supervised machine learning, computer vision, and animation using Python
-  * Structure analysis tools: Atomsk, OVITO, Vesta, VMD
-  * Molecular dynamics simulation using LAMMPS 
+* Computational Skills
+  * Supervised machine learning
+  * Image processing
 * Softwares
+  * Klayout
   * OriginLab
   * LabPlot
   * MS Office
