@@ -31,8 +31,6 @@ Professional Experience
   * Artie McFerrin Department of Chemical Engineering
   * Texas A&M University, College Station, Texas, USA 
 
-Research Experience
-------
 * Undergraduate Researcher (Remote) (Jan. 2023 - July 2025)
   * [Ahmed Research Group](https://faculty.buffalostate.edu/ahmedsm/)
   * PI & Group Lead: Dr. Saquib Ahmed, SUNY - Buffalo State University, New York, USA  
