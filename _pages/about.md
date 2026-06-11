@@ -60,13 +60,16 @@ Technical Skills
 ------
 * Experimental Skills
   * Photolithography
+  * Spin Coating
   * Physical Vapor Deposition
-  * Sputtering
-  * Chemical synthesis of MXenes
-* Characterization Techniques:
+  * Chemical Vapor Deposition
+* Surface Analysis:
+    * Ellipsometry
+    * Atomic Force Microscopy (AFM)
+* Electrochemical Characterization:
     * Cyclic Voltammetry
-    * Electrochemical Impedance Spectroscopy
-    * Galvanostatic Charging-discharging
+    * Galvanostatic Charging-discharging (GCD)
+    * Electrochemical Impedance Spectroscopy (EIS)
 * Programming Languages
   * Python
   * MATLAB
