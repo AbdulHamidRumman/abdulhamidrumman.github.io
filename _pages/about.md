@@ -24,11 +24,12 @@ Education
 Professional Experience
 ------
 * Graduate Research Assistant (May 2026 - Present)
-  * Huang Lab
+  * Jiho Shin Lab
   * Artie McFerrin Department of Chemical Engineering
   * Texas A&M University, College Station, Texas, USA 
-* Graduate Teaching Assistant (Aug. 2025 - May 2026)
-  * Artie McFerrin Department of Chemical Engineering
+* Graduate Teaching Assistant 
+  * Fall 2025 - CHEN 320 Numerical Analysis for Chemical Engineers
+  * Spring 2026 - CHEN 205 Chemical Engineering Thermodynamics I
   * Texas A&M University, College Station, Texas, USA 
 
 * Undergraduate Researcher (Remote) (Jan. 2023 - July 2025)
